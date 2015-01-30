@@ -1,0 +1,26 @@
+{
+  "name": "css-whitespace-maybe",
+  "version": "0.0.1",
+  "description": "A wrapper to css-whitespace that tries to avoid transforming already valid CSS.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rliang/css-whitespace-maybe.git"
+  },
+  "keywords": [
+    "css",
+    "whitespace",
+    "rework",
+    "plugin",
+    "transform"
+  ],
+  "author": "Ricardo Liang <ricardoliang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rliang/css-whitespace-maybe/issues"
+  },
+  "homepage": "https://github.com/rliang/css-whitespace-maybe",
+  "dependencies": {
+    "css-whitespace": "*"
+  }
+}
